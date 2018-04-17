@@ -1,4 +1,4 @@
-maryland_traffic_violations/Libraries/opencv2.framework/Versions/A/opencv2 filter=lfs diff=lfs merge=lfs -text
+maryland_traffic_violations.csv/Libraries/opencv2.framework/Versions/A/opencv2 filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.gitattributes filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
