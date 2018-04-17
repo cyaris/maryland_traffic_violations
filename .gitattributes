@@ -1,7 +1,7 @@
 *.twb filter=tableau
 *.twbx filter=tableau
-*.csv text
 *.csv filter=lfs diff=lfs merge=lfs -text
+maryland_traffic_violations.csv filter=lfs diff=lfs merge=lfs -text
 *.gitattributes filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.twb filter=lfs diff=lfs merge=lfs -text
