@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fcf080cc18f5bf94d030dd1a0aae40df1a2fc4d5dabc2b7bced7f39309fcfc9a
-size 399
+/Users/charlieyaris/maryland_traffic_violations/maryland_traffic_violations.csv filter=lfs diff=lfs merge=lfs -text
+*.twbx filter=tableau
+*.twb filter=tableau
+*.csv filter=lfs diff=lfs merge=lfs -text
