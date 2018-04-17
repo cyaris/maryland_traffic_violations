@@ -1,5 +1,5 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
 /Users/charlieyaris/maryland_traffic_violations/maryland_traffic_violations.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
 *.gitattributes filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.twb filter=lfs diff=lfs merge=lfs -text
