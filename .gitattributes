@@ -5,3 +5,4 @@
 *.js linguist-vendored=false
 static/* linguist-vendored
 * linguist-vendored
+Traffic_Violations.csv linguist-documentation=false
