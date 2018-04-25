@@ -1,4 +1,5 @@
 # maryland_traffic_violations
+
 Final project for General Assembly Data Analytics course Spring 2017
 
 Research Question: Why would a reckless driver get a warning instead of a citation?
